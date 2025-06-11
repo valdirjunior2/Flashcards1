@@ -19,5 +19,16 @@ criaCartao(
 criaCartao(
     'Histórias',
     'O que foi a "Corrida pelo Império"?',
-    'Oi em ingles é HI (RAI)'
+    'A "Corrida pelo império"foi a rárida e intensiva divisão da Àfrica entre as potências europeias np final do século x1x, sem considerar as fronteiras ou culturas locais.'
+)
+criaCartao(
+     'Histórias',
+     'O imperialismo afetou as relações entre as potências?'
+     'Sim as potências competiam por territórios, o que gerou alianças e rivalidades, criando um clima de tensão internacional.'
+)
+
+criaCartao(
+    'Histórias',
+    'Qual foi o impacto do imperialismo nas populações locais?'
+    'As populações locais foram muitas vezes forçadas a abandonar sua terras, adotaram a cultura europeia, e sofreram com a violências e controle econômico das potências coloniais.'
 )
