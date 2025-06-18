@@ -23,12 +23,12 @@ criaCartao(
 )
 criaCartao(
      'Histórias',
-     'O imperialismo afetou as relações entre as potências?'
+     'O imperialismo afetou as relações entre as potências?',
      'Sim as potências competiam por territórios, o que gerou alianças e rivalidades, criando um clima de tensão internacional.'
 )
 
 criaCartao(
     'Histórias',
-    'Qual foi o impacto do imperialismo nas populações locais?'
+    'Qual foi o impacto do imperialismo nas populações locais?',
     'As populações locais foram muitas vezes forçadas a abandonar sua terras, adotaram a cultura europeia, e sofreram com a violências e controle econômico das potências coloniais.'
 )
